@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Gailloty"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3D518C"
+
+# Menu
+menu_primary = "#3D518C"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(215, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
